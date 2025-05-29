@@ -1,0 +1,13 @@
+.corpo{
+  background-color: #c19a6b;
+  height: 250px;
+  width: 200px;
+  border-radius: 50% 50% 45% 45%;
+  margin-left: 50px;
+}
+
+.olhos{
+  background-color: white;
+  height: 50px ;
+  width: 50px ;
+}
