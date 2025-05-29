@@ -1,13 +1,23 @@
 .corpo{
-  background-color: #c19a6b;
+  /* background-color: #c19a6b; */
   height: 250px;
   width: 200px;
   border-radius: 50% 50% 45% 45%;
-  margin-left: 50px;
+  position: relative;
 }
 
-.olhos{
-  background-color: white;
-  height: 50px ;
-  width: 50px ;
+.olhos1{
+  position: absolute;
+  width: 90px;
+  top: 30px;
+  left: 50px;
+  
 }
+
+.boca1{
+   position: absolute;
+   width: 100px;
+   left: 50px;
+   top: 115px;
+}
+

@@ -1,8 +1,9 @@
-const Olhos = () => {
-    return(
-    <div className="olhos">
 
-    </div>
+
+const Olhos = ({olho}) => {
+    return(    
+        <img src={olho} className='olhos1'/> 
+                   
     )
 }
 
